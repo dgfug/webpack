@@ -1382,13 +1382,13 @@ asn1@~0.2.3:
   dependencies:
     safer-buffer "~2.1.0"
 
-assemblyscript@^0.19.16:
-  version "0.19.16"
-  resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.19.16.tgz#fc06c9892755775e8e31a59249fbc361fd49e1d1"
-  integrity sha512-AMNdwcat+EEsxjkVQ5vOE/lDbXBvy1swQKAuMG2Ken+DZufZH7wKHIAVKR5liteW/jLL3T971l1MN+onP/bixA==
+assemblyscript@^0.20.14:
+  version "0.20.14"
+  resolved "https://registry.yarnpkg.com/assemblyscript/-/assemblyscript-0.20.14.tgz#c794412c2f4d8feae018e348ad9176afe3f4d355"
+  integrity sha512-FZwr4ZPdeTQbhhG10iaJuEqBZ6PG2hOsRFOdEgAxwJQKnDMhQ6vA4sSb81WCLmwqkidYm6+y9AeZ1i9aNwIj6w==
   dependencies:
-    binaryen "101.0.0-nightly.20210904"
-    long "^4.0.0"
+    binaryen "108.0.0-nightly.20220528"
+    long "^5.2.0"
 
 assert-never@^1.2.1:
   version "1.2.1"
@@ -1538,10 +1538,10 @@ binary-extensions@^2.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.1.0.tgz#30fa40c9e7fe07dbc895678cd287024dea241dd9"
   integrity sha512-1Yj8h9Q+QDF5FzhMs/c9+6UntbD5MkRfRwac8DoEm9ZfUBZ7tZ55YcGVAzEe4bXsdQHEk+s9S5wsOKVdZrw0tQ==
 
-binaryen@101.0.0-nightly.20210904:
-  version "101.0.0-nightly.20210904"
-  resolved "https://registry.yarnpkg.com/binaryen/-/binaryen-101.0.0-nightly.20210904.tgz#58a7990d6d64b16567f376a1fe47d8aea6698b14"
-  integrity sha512-2AvJhErttuoMvgNcYPPpPy7C12PSvDdtZWtEeX/Otm/Vtf4ePvBpT3UIA00hGAh8HNaGr+dzFNstxTUvjNwZTg==
+binaryen@108.0.0-nightly.20220528:
+  version "108.0.0-nightly.20220528"
+  resolved "https://registry.yarnpkg.com/binaryen/-/binaryen-108.0.0-nightly.20220528.tgz#55e50ec50dc3cded36ad02e68ec69eb69bbb1e7b"
+  integrity sha512-9biG357fx3NXmJNotIuY9agZBcCNHP7d1mgOGaTlPYVHZE7/61lt1IyHCXAL+W5jUOYgmFZ260PR4IbD19RKuA==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -4207,10 +4207,10 @@ log-update@^4.0.0:
     slice-ansi "^4.0.0"
     wrap-ansi "^6.2.0"
 
-long@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/long/-/long-4.0.0.tgz#9a7b71cfb7d361a194ea555241c92f7468d5bf28"
-  integrity sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==
+long@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/long/-/long-5.2.0.tgz#2696dadf4b4da2ce3f6f6b89186085d94d52fd61"
+  integrity sha512-9RTUNjK60eJbx3uz+TEGF7fUr29ZDxR5QzXcyDpeSfeH28S9ycINflOgOlppit5U+4kNTe83KQnMEerw7GmE8w==
 
 loose-envify@^1.1.0:
   version "1.4.0"
