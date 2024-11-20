@@ -4,6 +4,7 @@
 /test/fixtures/temp-*
 /test/temp
 /test/ChangesAndRemovals
+/test/**/dev-defaults.webpack.lock
 /benchmark/js
 /benchmark/fixtures
 /examples/**/dist
@@ -18,4 +19,5 @@
 .vscode
 .cache
 .eslintcache
+.cspellcache
 package-lock.json
